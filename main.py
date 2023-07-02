@@ -51,3 +51,16 @@ y = 6
 print(x + y)
 print(x - y)
 print(x/y)
+
+#comma can support different data type
+num = 5
+name = "amin"
+print(num, name)
+
+
+x = "awesome"
+
+def myfunc():
+    print("python is " + x)
+
+myfunc()
