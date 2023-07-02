@@ -17,3 +17,16 @@ x = 12
 y = 10
 num = x - y
 print(num)
+
+
+# variable
+
+x = 5
+y = "amirah"
+print(y + " is age " + str(x))
+
+# snake case
+my_character_name = "Alwin"
+
+# camel case
+myCharacterName = "Amin"
