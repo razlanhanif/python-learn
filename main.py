@@ -30,3 +30,24 @@ my_character_name = "Alwin"
 
 # camel case
 myCharacterName = "Amin"
+
+# unpack list
+
+kualaLumpur = ["Sentul", "Rawang", "Danau"]
+a, b, c = kualaLumpur
+print(a)
+print(b)
+print(c)
+
+
+# adding plus sign (String)
+x = "Amirah"
+y = "is a boy"
+print(x + " " + y)
+
+# adding plus sign (number) become operation
+x = 5
+y = 6
+print(x + y)
+print(x - y)
+print(x/y)
