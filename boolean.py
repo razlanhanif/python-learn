@@ -12,9 +12,10 @@ num1 = input("Please input a number")
 num2 = input("Please input another number")
 result = num1 + num2
 
-if num1 > num2:
+if num1 == num2:
     print(result)
 else:
     print("Your first number is less then your second number!")
+
 
 
